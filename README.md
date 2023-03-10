@@ -30,8 +30,8 @@ Hi Everyone, Welcome to TypeScript-backend-Course This repository contains infor
 | الأسبوع 1| 5   |[ Rest ](https://github.com/Tuwaiq-Academy-Training/REST-API/blob/main/README.md)| [التمرين الخامس](https://2u.pw/rauAtY)||
 | الأسبوع 2| 1   |[ Zod ](https://github.com/Tuwaiq-Academy-Training/Zod/blob/main/README.md) |[التمرين السادس](https://2u.pw/hehzmh)||
 | الأسبوع 2| 2   |[ Database SQL ](https://2u.pw/GklAgY)|[التمرين السابع](https://2u.pw/Od6N82)|
-| الأسبوع 2| 3  |[Prisma Introduction](https://github.com/Tuwaiq-Academy-Training/Prisma-Introduction.js)|[Lap](Lap)|| 
-| الأسبوع 2| 4   |[ Prisma-Intermediate.js](https://2u.pw/oOxxPr)|[التمرين الثامن](https://2u.pw/MqjQPg)||
+| الأسبوع 2| 3  |[Prisma Introduction](https://github.com/Tuwaiq-Academy-Training/Prisma-Introduction.js)|[Lap](Lap)|[Project_Base_Tutorial_part_1_draft.pdf](https://github.com/AliIbrahim5/TypeScript-backend-Course/files/10944952/Project_Base_Tutorial_part_1_draft.pdf)| 
+| الأسبوع 2| 4   |[ Prisma-Intermediate.js](https://2u.pw/oOxxPr)|[التمرين الثامن](https://2u.pw/MqjQPg)|   [Database_Deployment_using_Planetscale (2).pdf](https://github.com/AliIbrahim5/TypeScript-backend-Course/files/10944915/Database_Deployment_using_Planetscale.2.pdf)
 | الأسبوع 2| 5   |[ Deployment ]()|[التمرين العاشر]()|[API_Deployment_using_Render_1.pdf](https://github.com/AliIbrahim5/TypeScript-backend-Course/files/10943293/API_Deployment_using_Render_1.pdf)|
 
 
